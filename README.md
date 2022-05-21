@@ -2,12 +2,27 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" colspan="2">
+
+### ℹ️ Information ℹ️
+
+</td>
+</tr>
+<tr>
+<td align="right" valign="top">
+
 [![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardroid&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)
 
 [![Cardroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=96edd70f-15d3-4d1e-acdd-7deed78dbe54&layout=compact&theme=radical)](https://github.com/cardroid)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardroid&layout=compact&theme=radical)](https://github.com/cardroid)
 
+</td>
+<td align="left" valign="top">
+
+<div>
 <div>
 <img src="https://wakatime.com/badge/user/96edd70f-15d3-4d1e-acdd-7deed78dbe54.svg?style=flat-square"/>
 <img src="https://komarev.com/ghpvc/?username=cardroid&style=flat-square"/>
@@ -40,6 +55,12 @@
 <div>
 <a href="https://cardroid.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=carbonsindh@gmail.com"/></a>
+</div>
 
 </div>
+
+</td>
+</tr>
+</table>
+
 </div>
