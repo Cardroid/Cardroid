@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cardroid&fontSize=90)
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" colspan="2">
@@ -11,7 +9,7 @@
 </td>
 </tr>
 <tr>
-<td align="right" valign="top" width="50%">
+<td align="center" valign="top" width="58%">
 
 [![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardroid&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)
 
@@ -20,7 +18,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardroid&layout=compact&theme=radical)](https://github.com/cardroid)
 
 </td>
-<td align="left" valign="top" width="50%">
+<td align="center" valign="top" width="42%">
+
+<br/>
 
 <div>
 <div>
@@ -62,5 +62,3 @@
 </td>
 </tr>
 </table>
-
-</div>
