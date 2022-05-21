@@ -17,6 +17,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardroid&layout=compact&theme=radical)](https://github.com/cardroid)
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
+
 </td>
 <td align="center" valign="top" width="42%">
 
