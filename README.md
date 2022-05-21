@@ -1,17 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cardroid&fontSize=90)
 
-<div align="left">
-  <div align="right" style="width: 48%; float: left;">
+<div align="center">
 
 [![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardroid&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)
 
-[![Cardroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=96edd70f-15d3-4d1e-acdd-7deed78dbe54&theme=radical)](https://github.com/cardroid)
+[![Cardroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=96edd70f-15d3-4d1e-acdd-7deed78dbe54&layout=compact&theme=radical)](https://github.com/cardroid)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardroid&layout=compact&theme=radical)](https://github.com/cardroid)
-
-  </div>
-
-  <div align="left" style="width: 48%;; float: right;">
 
 <div>
 <img src="https://wakatime.com/badge/user/96edd70f-15d3-4d1e-acdd-7deed78dbe54.svg?style=flat-square"/>
@@ -47,6 +42,4 @@
 <a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=carbonsindh@gmail.com"/></a>
 
 </div>
-
-  </div>
 </div>
