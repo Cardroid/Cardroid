@@ -1,10 +1,12 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cardroid&fontSize=90)
 
 <table>
 <tr>
 <td align="center" colspan="2">
 
-### ℹ️ Information ℹ️
+### ℹ️ Cards ℹ️
 
 </td>
 </tr>
@@ -15,6 +17,10 @@
 
 [![Cardroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=96edd70f-15d3-4d1e-acdd-7deed78dbe54&layout=compact&theme=radical)](https://github.com/cardroid)
 
+</td>
+
+<td align="center" valign="top" width="42%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardroid&layout=compact&theme=radical)](https://github.com/cardroid)
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
@@ -22,11 +28,13 @@
 [![Solved.ac profile grass](http://mazandi.herokuapp.com/api?handle=carbonsix&theme=dark)](https://solved.ac/carbonsix)
 
 </td>
-<td align="center" valign="top" width="42%">
+</tr>
+</table>
+
+
 
 <br/>
 
-<div>
 <div>
 <img src="https://wakatime.com/badge/user/96edd70f-15d3-4d1e-acdd-7deed78dbe54.svg?style=flat-square"/>
 <img src="https://komarev.com/ghpvc/?username=cardroid&style=flat-square"/>
@@ -62,7 +70,3 @@
 </div>
 
 </div>
-
-</td>
-</tr>
-</table>
