@@ -37,7 +37,7 @@
 
 <div>
 <img src="https://wakatime.com/badge/user/96edd70f-15d3-4d1e-acdd-7deed78dbe54.svg?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=cardroid&style=flat-square"/>
+<a href="https://github.com/Cardroid"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCardroid&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true"/></a>
 </div>
 
 ### 🛠 Tech Stack
