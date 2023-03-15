@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cardroid&fontSize=90)
 
-<table>
+<!--<table>
 <tr>
 <td align="center" colspan="2">
 
@@ -29,8 +29,12 @@
 
 </td>
 </tr>
-</table>
+</table>-->
 
+
+[![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardroid&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
 
 
 <br/>
